@@ -1,1 +1,6 @@
-## this is for SAMAS 2.0
+## SAMAS 2.0
+
+
+## Table of Contents
+
+- [Examples](#Examples)
